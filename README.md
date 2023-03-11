@@ -19,3 +19,5 @@ And more!
 
 
 <img src="https://huggingface.co/datasets/huggingface-deep-rl-course/course-images/resolve/main/en/unit0/thumbnail.jpg"/>
+<iframe src="https://giphy.com/embed/Gfkil1C02wiaK4yX1L" width="480" height="152" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Gfkil1C02wiaK4yX1L">via GIPHY</a></p>
+
