@@ -19,5 +19,5 @@ And more!
 
 
 <img src="https://huggingface.co/datasets/huggingface-deep-rl-course/course-images/resolve/main/en/unit0/thumbnail.jpg"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUxZjIzMzNhM2U2NDYxZWQ1NDk4N2MzYzg2ZDk5OTMxYjU5OTViMSZjdD1n/Gfkil1C02wiaK4yX1L/giphy.gif"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUxZjIzMzNhM2U2NDYxZWQ1NDk4N2MzYzg2ZDk5OTMxYjU5OTViMSZjdD1n/Gfkil1C02wiaK4yX1L/giphy.gif" height="360p" width="1280"/>
 
